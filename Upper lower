@@ -1,0 +1,3 @@
+c = input ("enter character ")
+print ("the uppercase",c. upper()) 
+print ("the lowercase",c. lower()) 

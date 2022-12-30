@@ -1,3 +1,8 @@
-c = input ("enter character ")
-print ("the uppercase",c. upper()) 
-print ("the lowercase",c. lower()) 
+s=input("enter any string")
+if(s.islower()):
+    print(s.upper())
+elif(s.isupper()):
+    print(s.lower())
+else:
+    print(s)
+ 
